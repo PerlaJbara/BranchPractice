@@ -23,6 +23,7 @@ class MainActivity : AppCompatActivity() {
         //Don't forget to update and push your changes.
 
         //Perla was here :)
+        //Daniel was here :o
 
     }
 }
